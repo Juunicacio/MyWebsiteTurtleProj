@@ -1,0 +1,12 @@
+helpScript:
+
+* Install Flask: pip install Flask 
+* Documentation in: flask.pocoo.org
+
+* Open your command line, set the director to the same folder that is your "myturtlewebsite.py"
+* Write in your command line: set FLASK_APP=myturtlewebsite.py (with no spaces) - the word 'set' is for windows pc, for mac use 'export'
+* and right after: flask run
+
+
+* copy the http address to the browser
+
